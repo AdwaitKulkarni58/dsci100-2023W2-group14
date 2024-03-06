@@ -30,7 +30,7 @@ We will be using the predictors age, chol, and trestbps (Resting blood pressure)
 Question: How does a patient's age, cholesterol levels and resting blood pressure levels tell us about the liklelyhood of the patient being diagnosed with heart disease?
 
 **Method**
-We will be using the columns: Age_Of_Patient, Serum_Cholestrol(Mg/dl), Resting_Blood_Pressure to classify whether an individual will be predicted to have heart disease.
+We will be using the columns: Age_Of_Patient, Serum_Cholestrol(Mg/dl), Resting_Blood_Pressure to classify whether an individual will be predicted to have heart disease.  
 
 **Expected outcomes and significance**
 We expect to find a trend and relationship between a patient's age, cholesterol levels and resting blood pressure and whether they will get diagnosed with heart disease (i.e. patient with higher cholesterol, higher resting blood pressure and older age is predicted to have heart disease).
